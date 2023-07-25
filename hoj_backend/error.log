@@ -1,0 +1,24 @@
+2023-07-25 17:15:11 [main] ERROR hoj - [Init System Config] [HDU]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:15:11 [main] ERROR hoj - [Init System Config] [POJ]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:15:11 [main] ERROR hoj - [Init System Config] [CF]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:15:11 [main] ERROR hoj - [Init System Config] [SPOJ]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:15:11 [main] ERROR hoj - [Init System Config] [AC]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:23:44 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 6688 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 6688 or configure this application to listen on another port.
+
+2023-07-25 17:25:34 [main] ERROR hoj - [Init System Config] [HDU]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:25:34 [main] ERROR hoj - [Init System Config] [POJ]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:25:34 [main] ERROR hoj - [Init System Config] [CF]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:25:34 [main] ERROR hoj - [Init System Config] [SPOJ]: There is no account or password configured for remote judge, username list:[], password list:[]
+2023-07-25 17:25:34 [main] ERROR hoj - [Init System Config] [AC]: There is no account or password configured for remote judge, username list:[], password list:[]
